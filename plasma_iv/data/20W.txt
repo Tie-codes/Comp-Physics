@@ -1,0 +1,62 @@
+20W 
+100,000 samples 
+1000 samples per second
+
+0V
+Time - Plot 0	Amplitude - Plot 0	
+24	0.23856	
+25	0.0133544	
+26	0.000142849	
+27	1.86164E-5	
+
+
+2V
+Time - Plot 0	Amplitude - Plot 0	
+28	0.342636	
+29	0.012021	
+30	0.000151345	
+31	1.98608E-5	
+
+4V
+Time - Plot 0	Amplitude - Plot 0	
+32	0.428392	
+33	0.0112626	
+34	0.000152024	
+35	2.00337E-5	
+
+6V
+Time - Plot 0	Amplitude - Plot 0	
+36	0.525805	
+37	0.0107636	
+38	0.000154467	
+39	1.92471E-5	
+
+8V
+Time - Plot 0	Amplitude - Plot 0	
+40	0.598153	
+41	0.0107081	
+42	0.000154424	
+43	1.93428E-5	
+
+10V
+Time - Plot 0	Amplitude - Plot 0	
+44	0.666567	
+45	0.0923246	
+46	0.00015451	
+47	2.09461E-5	
+
+
+12V
+Time - Plot 0	Amplitude - Plot 0	
+48	0.68378	
+49	0.155663	
+50	0.00015384	
+51	2.3249E-5	
+
+
+14V
+Time - Plot 0	Amplitude - Plot 0	
+52	0.679068	
+53	0.182365	
+54	0.000152543	
+55	2.49395E-5	

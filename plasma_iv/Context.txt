@@ -1,0 +1,6 @@
+When reading data from the data folder, know that is it organized by voltage (0V, 2V...) and then followed by a useless sanity line ('Time - Plot 0   Amplitude - Plot 0') and followed by the real data in the following order
+
+Voltage Vc
+Voltage error Vc_err
+Current Ic
+Current error Ic_err
